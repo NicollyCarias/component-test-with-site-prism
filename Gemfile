@@ -12,7 +12,8 @@ gem 'rubocop', '= 1.12'
 gem 'rubocop-ast', '= 1.14.0'
 gem 'site_prism', '= 3.7.3'
 gem 'rake', '= 12.3.3'
-
+gem 'httparty'
+gem 'rspec', '= 3.8.0'
 
 group :development do
   gem 'debase', require: false
